@@ -2,7 +2,6 @@
 
 The most simple URL shortener in the market.
 
-![Screenshot](/public/screen.png)
 
 ## About
 
